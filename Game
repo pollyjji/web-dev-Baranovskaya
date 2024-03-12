@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Карта-изображение</title>
+</head>
+<body>
+    <img src="imgpark.jpg" title="park" usemap="#park" width="16" height="16">
+
+    <map name="park">
+       
+        <area href="level 1.html" shape="circle" coords="50, 560, 42" alt="Ferris wheel" >
+   <area href="BOSS level.html" shape="circle" coords="1270, 140, 42" alt="Ferris wheel" >
+      
+    </map>
+</body>
+</html>
