@@ -5,7 +5,7 @@
     <title>Карта-изображение</title>
 </head>
 <body>
-    <img src="imgpark.jpg" title="park" usemap="#park" width="16" height="16">
+    <img src="imgpark.jpg" title="park" usemap="#park" width="1450" height="820">
 
     <map name="park">
        
